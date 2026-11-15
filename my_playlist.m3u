@@ -33,9 +33,9 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" group-title="IT",Rete 4 FHD
 http://185.227.34.62/stream/13/index.m3u8
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Rete_4_-_Logo_2018.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="IT",Rete 4 HD
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" group-title="IT",Rete 4 HD
 http://185.227.34.62/stream/14/index.m3u8
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://commons.wikimedia.org/wiki/File:Rete_4_-_Logo_2018.svg" group-title="IT",Rete 4 SD
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/960px-Rete_4_-_Logo_2018.svg.png" group-title="IT",Rete 4 SD
 http://185.227.34.62/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" group-title="IT",Canale 5 FHD
 http://185.227.34.62/stream/17/index.m3u8
@@ -98,7 +98,7 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889706/hls/master.m3u8?ads.xumo_ch
 #EXTINF:-1 tvg-id="CBS.us@WJAXTV" tvg-logo="https://i.imgur.com/TBjVU9L.png" group-title="US",CBS
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us",Fox News Channel (144p)
-http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+https://tvsen6.aynaott.com/foxnews/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd_c.png" group-title="US",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
