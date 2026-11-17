@@ -61,6 +61,8 @@ https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 http://102.129.186.182:81/la7d/index.m3u8
 #EXTINF:-1 tvg-id="LA7d.it" tvg-logo="https://i.imgur.com/sM0A3GD.png" group-title="IT",LA7d
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/960px-Nove_-_Logo_2017.svg.png" group-title="IT",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="IT",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" group-title="IT",Discovery Turbo
